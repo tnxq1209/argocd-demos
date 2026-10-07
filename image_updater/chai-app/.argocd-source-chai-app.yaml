@@ -1,3 +1,0 @@
-kustomize:
-  images:
-  - tnxq1209/chai-devops:v1.0.3
